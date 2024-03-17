@@ -1,0 +1,10 @@
+ .nav-link-hover:hover {
+     color: #d7ed97;
+     border-bottom: 2px solid #d4ce71;
+ }
+
+ .nav-link-active {
+     color: #ff7d00 !important;
+     background-color: #f7ff0005 !important;
+
+ }
